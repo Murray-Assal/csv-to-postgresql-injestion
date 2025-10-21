@@ -46,8 +46,8 @@ This project demonstrates:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/netflix-db-loader.git
-cd netflix-db-loader
+git clone https://github.com/Murray-Assal/csv-to-postgresql-injestion.git
+cd csv-to-postgresql-injestion
 ```
 
 ### 2. Install dependencies
