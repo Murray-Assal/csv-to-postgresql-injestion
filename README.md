@@ -1,4 +1,4 @@
-# Netflix Dataset Normalization and Database Loader
+# Netflix Dataset Normalization and Injestion into Database
 
 A Python project that **downloads the Netflix Movies and TV Shows dataset from Kaggle**, **normalizes it into a relational schema**, and **loads it into a PostgreSQL database**.
 
