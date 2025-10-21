@@ -55,13 +55,6 @@ cd csv-to-postgresql-injestion
 pip install -r requirements.txt
 ```
 
-Example `requirements.txt`:
-```text
-pandas
-sqlalchemy
-psycopg2
-kagglehub
-```
 
 ### 3. Configure PostgreSQL
 Make sure PostgreSQL is running locally and accessible.  
